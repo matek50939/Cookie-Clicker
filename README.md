@@ -1,1 +1,1 @@
-This is the git to my cookie clicker game in python. You have to click the cookie to get money and you can upgrade it. there is also a shop where you can buy an auto clicker and upgrade it. Have fun!
+This is the git to my cookie clicker game in python. You have to click the cookie to get money and you can upgrade it. there is also a shop where you can buy an auto clicker and upgrade it. To play go tho the itch.io link. It is web playable. https://matek50939.itch.io/cookie-clicker Have fun!
